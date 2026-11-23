@@ -1,6 +1,6 @@
  # 📊 FAANG Stocks Market Analysis & Power BI Dashboard
 
-An end-to-end data analytics project examining historical stock market data, trading volumes, and price performance for FAANG tech giants (Facebook, Amazon, Apple, Netflix, Google). Developed by **Team 4**.
+An end-to-end data analytics project examining historical stock market data, trading volumes, and price performance for FAANG tech giants (Facebook, Amazon, Apple, Netflix, Google).
 
 ---
 
@@ -27,7 +27,4 @@ An end-to-end data analytics project examining historical stock market data, tra
 * **Volatility & Market Share**: Comparative bar and donut charts for price ranges and trading share.
 * **Detailed Financial Matrix**: Table with dynamic unit formatting (B / T) for granular analysis.
 
----
 
-### 👨‍💻 Team & Credits
-Developed by **Team 4**
