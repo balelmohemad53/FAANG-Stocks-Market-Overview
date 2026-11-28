@@ -17,7 +17,7 @@ End-to-end analysis of the FAANG stocks (Meta/Facebook, Amazon, Apple, Netflix, 
 | `EDA.ipynb` | Exploratory data analysis |
 | `app.py` | Streamlit app (EDA, regression, classification, predictions) |
 | `requirements.txt` | Python dependencies |
-| `FAANG_Stocks_Market_Overview_Team4.pbix` | Power BI file |
+| `FAANG_Stocks_Market_Overview.pbix` | Power BI file |
 | `FAANG_Stocks_Executive_Presentation.pptx` | Executive presentation |
 
 ## Features Used by the Models
